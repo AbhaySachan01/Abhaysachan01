@@ -66,12 +66,12 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
         <li>
             <a href="https://leetcode.com/u/Abhaysachan01/" target="_blank">
                 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge">
-            </a> (450+ questions)
+            </a> (Knight)
         </li>
         <li>
             <a href="https://codeforces.com/profile/abhaysachan360" target="_blank">
                 <img src="https://img.shields.io/badge/-CodeForces-F5B116?style=flat&logo=leetcode&logoColor=black" alt="Codeforces Badge">
-            </a> (150+ questions)
+            </a> (Specialist)
         </li>
         <li>
             <a href="https://www.codechef.com/users/abhay_sachan" target="_blank">
