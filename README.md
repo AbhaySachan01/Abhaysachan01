@@ -29,6 +29,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
         <li><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-TailwindCSS-334433?style=flat&logo=node.js&logoColor=white"></li>
       </ul>
     </td>
     <td>
