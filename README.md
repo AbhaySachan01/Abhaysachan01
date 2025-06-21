@@ -26,7 +26,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
     </td>
     <td>
       <ul>
-        <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></li>
       </ul>
@@ -78,7 +78,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
                 <img src="https://img.shields.io/badge/-Codechef-F1A116?style=flat&logo=leetcode&logoColor=black" alt="CodeChef Badge">
             </a> (4-Star coder)
         </li>
-        <li>Various online coding platforms (800+ questions)</li>
+        <li>Various online coding platforms (1200+ questions)</li>
       </ul>
     </td>
   </tr>
