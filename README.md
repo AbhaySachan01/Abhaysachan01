@@ -35,7 +35,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
       <ul>
         <li><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></li>
       </ul>
     </td>
