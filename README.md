@@ -72,7 +72,7 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
         <li>
             <a href="https://codeforces.com/profile/abhaysachan360" target="_blank">
                 <img src="https://img.shields.io/badge/-CodeForces-F5B116?style=flat&logo=leetcode&logoColor=black" alt="Codeforces Badge">
-            </a> (Specialist)
+            </a> (Expert)
         </li>
         <li>
             <a href="https://www.codechef.com/users/abhay_sachan" target="_blank">
