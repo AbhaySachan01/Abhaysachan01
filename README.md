@@ -97,15 +97,6 @@
   </tr>
 </table>
 
----
-
-
-### 📫 Get in Touch
-
-- **Email:** [Link](mailto:abhaysachan360@gmail.com)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/abhaysachan01/)
-
----
 
 <div align="center">
   
