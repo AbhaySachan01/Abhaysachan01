@@ -1,8 +1,20 @@
-## Welcome to my profile! 🌟
+<div align="center">
 
-### About Me
+# Abhay Sachan 👾
 
-Hello! I'm **Abhay Sachan**  with a love for web development and problem solving, especially in the context of DSA in C++. I specialize in the MERN stack, and I'm always eager to learn new technologies and contribute to exciting projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40+MNNIT+Allahabad;Full+Stack+Developer;LeetCode+Guardian+%F0%9F%91%91;Codeforces+Expert+%E2%9A%A1)](https://git.io/typing-svg)
+
+<a href="mailto:abhaysachan360@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abhaysachan01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abhaysachan01"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+---
+
+### 👤 Who am I?
+
+> CSE undergrad at **MNNIT Allahabad** who spends time building full-stack apps and grinding competitive programming. I like clean code, fast solutions, and hard problems.
 
 ---
 
@@ -94,9 +106,13 @@ Hello! I'm **Abhay Sachan**  with a love for web development and problem solving
 - **LinkedIn:** [Link](https://www.linkedin.com/in/abhaysachan01/)
 
 ---
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan360&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/abhaysachan360)
-[![Leetcode](https://leetcard.jacoblin.cool/abhaysachan01?ext=contest)](https://leetcode.com/abhaysachan01)
 
+<div align="center">
+  
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=abhaysachan01&theme=slateorange&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/abhaysachan01)
+[![Leetcode](https://leetcard.jacoblin.cool/abhaysachan01?ext=contest&theme=dark)](https://leetcode.com/abhaysachan01)
+
+</div>
 
 ### 🤝 Let's Collaborate!
 
